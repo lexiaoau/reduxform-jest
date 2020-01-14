@@ -1,3 +1,2 @@
-const  ReduxFormSelect = require('./ReduxFormSelect');
-
+import ReduxFormSelect from './ReduxFormSelect';
 export default ReduxFormSelect;

@@ -1,3 +1,2 @@
-const  ReduxFormInput = require('./ReduxFormInput');
-
+import ReduxFormInput from './ReduxFormInput';
 export default ReduxFormInput;
